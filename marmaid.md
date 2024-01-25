@@ -1,4 +1,4 @@
-```marmaid
+```mermaid
 stateDiagram-v2
     [*] --> s1
 		state "Форма ввода адреса" as s1
